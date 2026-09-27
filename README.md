@@ -1,4 +1,10 @@
-<div align="left">👋 Hi, I'm <span style="color:#E9CB45;">Ibovs</span></div>🚀 About MeI'm a Software Engineer focused on building clean, maintainable, and scalable software.I work across Web Development, Desktop Applications, Databases, APIs, and Automation.I enjoy analyzing technical problems, finding their root causes, and building practical solutions.🛠️ Tech Stack🌐 Frontend<p align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Ibrahim+Al-Mekhlafi;Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+Developer;C%23+%7C+.NET+Developer;Clean+Code+Enthusiast;Problem+Solver;)](https://git.io/typing-svg)
+<div align="left">
+  👋 Hi, I'm <span style="color:#E9CB45;">Ibrahim(Ibovs)</span></div>
+  🚀 About MeI'm a Software Engineer focused on building clean, maintainable, and scalable software.I work across Web Development, Desktop Applications, Databases, APIs, and Automation.I enjoy analyzing technical problems, finding their root causes, and building practical solutions.
+  
+  🛠️ Tech Stack🌐 Frontend<p align="left">
+  
 <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" width="50" title="React"/>
 </a>
@@ -97,3 +103,5 @@ Scalable Applications<p align="left">
 <img src="https://img.shields.io/badge/Explore%20My%20Projects-E9CB45?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+Developer;C%23+%7C+.NET+Developer;Clean+Code+Enthusiast;Problem+Solver;)](https://git.io/typing-svg)
