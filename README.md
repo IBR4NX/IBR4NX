@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E9CB45&size=30&lines=Software+Engineer;Flutter+Developer;Computer+Science;)](https://git.io/typing-svg)
 
 <!--
 **IBR4NX/IBR4NX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
